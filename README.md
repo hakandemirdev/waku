@@ -75,6 +75,6 @@ curl --location 'http://127.0.0.1:8645/debug/v1/info
 
 Monitoring
 ```
-http://IP_ADRESİN:3000/d/yns_4vFVk/nwaku-monitoring
+http://ip_address:3000/d/yns_4vFVk/nwaku-monitoring
 ```
 
