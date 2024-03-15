@@ -1,6 +1,10 @@
 # Waku
 <img src="https://github.com/hakandemirdev/waku/blob/fb0f1b4990da283c41fcddc6122b811ad23e5d77/waku_logo.jpg" width="auto">
 
+[Waku Web Sitesi](https://waku.org) 
+[Waku Twitter](https://twitter.com/Waku_org/)
+[Waku Discord](https://discord.com/invite/gMPAzmcDER)
+
 Öncelikle işletim sistemimizi güncelliyoruz.
 ```
 sudo apt update && sudo apt upgrade -y
