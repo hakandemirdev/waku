@@ -28,9 +28,13 @@ cp .env.example .env
 ```
 Gerekli ayarları yapıyoruz.
 env dosyası içerisinde aşağıdaki kısımları düzenliyoruz.
+
 ETH_CLIENT_ADDRESS = Infura veya Alchemy'den Sepolia RPC alıyoruz. https://www.infura.io/ - https://www.alchemy.com
+
 ETH_TESTNET_KEY = Metamask adresimizin private key'ini buraya yazıyoruz.
+
 RLN_RELAY_CRED_PASSWORD = Şifre belirleyip yazıyoruz.
+
 
 ```
 nano .env
