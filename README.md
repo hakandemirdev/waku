@@ -1,7 +1,7 @@
 # Waku
 <img src="https://github.com/hakandemirdev/waku/blob/fb0f1b4990da283c41fcddc6122b811ad23e5d77/waku_logo.jpg" width="auto">
 
-Öncelikle işletim sistemimizi güncelliyoruz.Ubuntu 22.04.3 LTS üzerine kurdum.
+Öncelikle işletim sistemimizi güncelliyoruz.
 ```
 sudo apt update && sudo apt upgrade -y
 ```
